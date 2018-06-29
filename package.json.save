@@ -1,0 +1,23 @@
+{
+  "name": "hackerbay-week1",
+  "version": "1.0.0",
+  "description": "Week1 of my hackerbay course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timtech4u/hackerbay-week1.git"
+  },
+  "author": "Timothy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timtech4u/hackerbay-week1/issues"
+  },
+  "homepage": "https://github.com/Timtech4u/hackerbay-week1#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3
+  }
+}
