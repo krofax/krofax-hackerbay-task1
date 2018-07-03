@@ -10,7 +10,7 @@ app.get('/', function (req, res) {
         status: 'success'
     });
 });
-
+   
 // write the post method
 app.use(bodyParser.urlencoded({ extended: false }));
 app.post('/data', (req, res) => {
